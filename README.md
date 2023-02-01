@@ -25,5 +25,5 @@
 [![B](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]
 
 
-![Tony Matsumura's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonymatsumura&show_icons=true&theme=radical)
+![Tony Matsumura's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonymatsumura&show_icons=true&theme=dracula)
 
