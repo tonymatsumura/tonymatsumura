@@ -7,6 +7,9 @@
 [![B](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 [![B](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]
 
+![Tony Matsumura's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonymatsumura&show_icons=true&theme=dracula)
+
+
 [![B](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
 [![B](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]
 
@@ -23,7 +26,3 @@
 [![B](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]
 [![B](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]
 [![B](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]
-
-
-![Tony Matsumura's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonymatsumura&show_icons=true&theme=dracula)
-
