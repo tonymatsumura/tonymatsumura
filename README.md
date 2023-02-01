@@ -10,7 +10,7 @@
 ![Tony Matsumura's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonymatsumura&show_icons=true&theme=dracula)
 
 
-[!B(https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
+[![B](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
 [![B](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]
 
 [![B](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]
